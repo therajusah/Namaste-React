@@ -19,7 +19,7 @@
 90C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\css-tree\lib\syntax\node\Url.js133480017926838957 0
 79C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\globals\globals.json133480017834798557 0
 86C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\@swc\helpers\esm\_update.js133480017913818084 0
-56C:\Users\rajuk\OneDrive\Desktop\Namaste React\.gitignore133480038353243396 0
+56C:\Users\rajuk\OneDrive\Desktop\Namaste React\.gitignore133480077451823002 0
 96C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\csso\node_modules\css-tree\lib\parser133480017927912172 1
 106C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\@parcel\core\lib\requests\ParcelBuildRequest.js133480017913020936 0
 79C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\globals\package.json133480017838508671 0
