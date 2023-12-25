@@ -10,3 +10,4 @@
 - Image Optimization
 - Minification
 - Bundling
+- Compressing
