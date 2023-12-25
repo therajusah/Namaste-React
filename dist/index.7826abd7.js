@@ -2951,7 +2951,7 @@ const parent = /*#__PURE__*/ (0, _reactDefault.default).createElement("div", {
     id: "parent"
 }, /*#__PURE__*/ (0, _reactDefault.default).createElement("div", {
     id: "child"
-}, /*#__PURE__*/ (0, _reactDefault.default).createElement("h1", {}, "I am an h1 tag")), /*#__PURE__*/ (0, _reactDefault.default).createElement("div", {
+}, /*#__PURE__*/ (0, _reactDefault.default).createElement("h1", {}, "This is Namste React \uD83D\uDE80")), /*#__PURE__*/ (0, _reactDefault.default).createElement("div", {
     id: "child3"
 }, [
     /*#__PURE__*/ (0, _reactDefault.default).createElement("h1", {}, "I am an h3 tag"),
