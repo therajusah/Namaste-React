@@ -1,4 +1,4 @@
-5973
+5965
 77C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\timsort\LICENSE.md133480017832177576 0
 112C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\caniuse-lite\data\features\date-tolocaledatestring.js133480017925972869 0
 92C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\@swc\helpers\_\_iterable_to_array133480017926277976 1
@@ -24,7 +24,7 @@
 106C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\@parcel\core\lib\requests\ParcelBuildRequest.js133480017913020936 0
 79C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\globals\package.json133480017838508671 0
 105C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\@swc\helpers\src\_class_private_method_set.mjs133480017933354260 0
-50C:\Users\rajuk\OneDrive\Desktop\Namaste React\dist133480071361069314 1
+50C:\Users\rajuk\OneDrive\Desktop\Namaste React\dist133480072997541450 1
 101C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\@swc\helpers\_\_apply_decorated_descriptor133480017915244084 1
 106C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\caniuse-lite\data\features\sharedarraybuffer.js133480017947458707 0
 67C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\argparse133480017842107027 1
@@ -3050,7 +3050,6 @@
 81C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\css-tree\lib\convertor133480017918805536 1
 99C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\@swc\helpers\_\_class_private_field_init133480017918948303 1
 113C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\csso\node_modules\css-tree\lib\lexer\prepare-tokens.js133480017925812132 0
-68C:\Users\rajuk\OneDrive\Desktop\Namaste React\dist\index.6bd02f5a.js133480048989200705 0
 87C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\css-tree\dist\csstree.esm.js133480017913797774 0
 108C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\csso\node_modules\css-tree\lib\generator\index.js133480017921963276 0
 89C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\css-what\lib\es\index.d.ts.map133480017849021740 0
@@ -3510,7 +3509,7 @@
 112C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\types.ts133480017903195965 0
 95C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\css-tree\cjs\syntax\atrule\media.cjs133480017899662429 0
 94C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\css-tree\cjs\syntax\atrule\nest.cjs133480017903647137 0
-73C:\Users\rajuk\OneDrive\Desktop\Namaste React\dist\index.ad248605.css.map133480071361038866 0
+73C:\Users\rajuk\OneDrive\Desktop\Namaste React\dist\index.ad248605.css.map133480072997531453 0
 107C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\@parcel\transformer-babel\src\babelErrorUtils.js133480017860772922 0
 79C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\css-select\README.md133480017894768394 0
 143C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\aliases.d.ts133480017862514819 0
@@ -3892,7 +3891,7 @@
 92C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\caniuse-lite\data\features\ime.js133480017936295168 0
 85C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\@swc\helpers\cjs\index.cjs133480017903974549 0
 94C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\caniuse-lite\data\regions\alt-af.js133480017855095915 0
-61C:\Users\rajuk\OneDrive\Desktop\Namaste React\dist\index.html133480071360892807 0
+61C:\Users\rajuk\OneDrive\Desktop\Namaste React\dist\index.html133480072997272414 0
 94C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\caniuse-lite\data\regions\alt-as.js133480017857397922 0
 102C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\caniuse-lite\data\features\css-selection.js133480017921187690 0
 103C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\caniuse-lite\data\features\rel-noreferrer.js133480017946330997 0
@@ -4091,7 +4090,7 @@
 76C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\.bin\browserslist133480017981062479 0
 97C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\@babel\helper-validator-identifier\lib133480017840141912 1
 108C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\caniuse-lite\data\features\background-img-opts.js133480017885327565 0
-72C:\Users\rajuk\OneDrive\Desktop\Namaste React\dist\index.402a5de6.js.map133480071361054012 0
+72C:\Users\rajuk\OneDrive\Desktop\Namaste React\dist\index.402a5de6.js.map133480072997531453 0
 112C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\caniuse-lite\data\features\background-position-x-y.js133480017885651630 0
 104C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\caniuse-lite\data\features\background-sync.js133480017886326167 0
 103C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\caniuse-lite\data\features\battery-status.js133480017886859072 0
@@ -5336,7 +5335,7 @@
 134C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\utils\createCustomError.js133480017862801939 0
 122C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\utils\names.js133480017904126816 0
 126C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\tokenizer\utils.js133480017910564227 0
-68C:\Users\rajuk\OneDrive\Desktop\Namaste React\dist\index.402a5de6.js133480071360902807 0
+68C:\Users\rajuk\OneDrive\Desktop\Namaste React\dist\index.402a5de6.js133480072997396182 0
 121C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\config133480017911085121 1
 124C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\create.js133480017861865001 0
 123C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\index.js133480017895909429 0
@@ -5964,11 +5963,4 @@
 100C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\.bin\node-gyp-build-optional-packages.ps1133480017981097682 0
 74C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\.bin\semver.ps1133480017981112891 0
 90C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\.bin\update-browserslist-db.ps1133480017981537513 0
-69C:\Users\rajuk\OneDrive\Desktop\Namaste React\dist\index.3a01df49.css133480060865274914 0
-73C:\Users\rajuk\OneDrive\Desktop\Namaste React\dist\index.3a01df49.css.map133480060865404672 0
-72C:\Users\rajuk\OneDrive\Desktop\Namaste React\dist\index.6bd02f5a.js.map133480048989392385 0
-68C:\Users\rajuk\OneDrive\Desktop\Namaste React\dist\index.7826abd7.js133480060946332448 0
-72C:\Users\rajuk\OneDrive\Desktop\Namaste React\dist\index.7826abd7.js.map133480060946409196 0
-69C:\Users\rajuk\OneDrive\Desktop\Namaste React\dist\index.ad248605.css133480071360892807 0
-76C:\Users\rajuk\OneDrive\Desktop\Namaste React\dist\Namaste React.3464ddca.js133480048473207396 0
-80C:\Users\rajuk\OneDrive\Desktop\Namaste React\dist\Namaste React.3464ddca.js.map133480048473454144 0
+69C:\Users\rajuk\OneDrive\Desktop\Namaste React\dist\index.ad248605.css133480072997386163 0
