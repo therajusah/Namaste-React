@@ -10,4 +10,10 @@
 - Image Optimization
 - Minification
 - Bundling
-- Compressing
+- Compress
+- Consistent Hashing
+- Code Splitting
+- Differential Bundling - Support older browsers
+- Diagnostics
+- Error Handling
+- HTTPs
