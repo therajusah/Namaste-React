@@ -5,3 +5,5 @@
 - Dev Build
 - Local Server
 - Hot Module Replacement (HMR)
+- File Watching algorithm - Written in C++
+- Caching - Faster Builds
