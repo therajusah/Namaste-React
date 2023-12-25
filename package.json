@@ -10,14 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/therajusah/Namaste-React.git"
   },
-  "keywords": [
-    "react",
-    "javascript"
-  ],
+  "keywords": [],
   "author": "Raju Kumar",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/therajusah/Namaste-React/issues"
   },
-  "homepage": "https://github.com/therajusah/Namaste-React#readme"
+  "homepage": "https://github.com/therajusah/Namaste-React#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
 }
