@@ -1,0 +1,23 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is Namaste React by Raju Kumar",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therajusah/Namaste-React.git"
+  },
+  "keywords": [
+    "react",
+    "javascript"
+  ],
+  "author": "Raju Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/therajusah/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/therajusah/Namaste-React#readme"
+}
