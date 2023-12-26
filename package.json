@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "This is Namaste React by Raju Kumar",
   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
+
   },
   "repository": {
     "type": "git",
@@ -25,7 +28,7 @@
     "react-dom": "^18.2.0"
   },
   "browserslist": [
-    "last 2 Chome version",
+    "last 2 Chrome version",
     "last 2 Firefox version"
   ]
 }

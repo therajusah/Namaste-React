@@ -4,7 +4,7 @@
 92C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\@swc\helpers\_\_iterable_to_array133480017926277976 1
 106C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\midl.h133480017908525729 0
 92C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\caniuse-lite\data\features\url.js133480017952712345 0
-58C:\Users\rajuk\OneDrive\Desktop\Namaste React\package.json133480080132811243 0
+58C:\Users\rajuk\OneDrive\Desktop\Namaste React\package.json133480454948208521 0
 92C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\htmlnano\lib\modules\minifyJs.cjs133480017857922390 0
 127C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\_collections.js133480017831504389 0
 87C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\type-fest\source\except.d.ts133480017852414623 0
@@ -24,7 +24,7 @@
 106C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\@parcel\core\lib\requests\ParcelBuildRequest.js133480017913020936 0
 79C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\globals\package.json133480017838508671 0
 105C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\@swc\helpers\src\_class_private_method_set.mjs133480017933354260 0
-50C:\Users\rajuk\OneDrive\Desktop\Namaste React\dist133480078350828003 1
+50C:\Users\rajuk\OneDrive\Desktop\Namaste React\dist133480455687770396 1
 101C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\@swc\helpers\_\_apply_decorated_descriptor133480017915244084 1
 106C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\caniuse-lite\data\features\sharedarraybuffer.js133480017947458707 0
 67C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\argparse133480017842107027 1
@@ -3891,7 +3891,7 @@
 92C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\caniuse-lite\data\features\ime.js133480017936295168 0
 85C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\@swc\helpers\cjs\index.cjs133480017903974549 0
 94C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\caniuse-lite\data\regions\alt-af.js133480017855095915 0
-61C:\Users\rajuk\OneDrive\Desktop\Namaste React\dist\index.html133480072997272414 0
+61C:\Users\rajuk\OneDrive\Desktop\Namaste React\dist\index.html133480455687141190 0
 94C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\caniuse-lite\data\regions\alt-as.js133480017857397922 0
 102C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\caniuse-lite\data\features\css-selection.js133480017921187690 0
 103C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\caniuse-lite\data\features\rel-noreferrer.js133480017946330997 0
@@ -5963,8 +5963,8 @@
 100C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\.bin\node-gyp-build-optional-packages.ps1133480017981097682 0
 74C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\.bin\semver.ps1133480017981112891 0
 90C:\Users\rajuk\OneDrive\Desktop\Namaste React\node_modules\.bin\update-browserslist-db.ps1133480017981537513 0
-69C:\Users\rajuk\OneDrive\Desktop\Namaste React\dist\index.3a01df49.css133480078350592738 0
-73C:\Users\rajuk\OneDrive\Desktop\Namaste React\dist\index.3a01df49.css.map133480078350777849 0
-68C:\Users\rajuk\OneDrive\Desktop\Namaste React\dist\index.7826abd7.js133480078350592738 0
-72C:\Users\rajuk\OneDrive\Desktop\Namaste React\dist\index.7826abd7.js.map133480078350788008 0
+69C:\Users\rajuk\OneDrive\Desktop\Namaste React\dist\index.3a01df49.css133480455687153011 0
+73C:\Users\rajuk\OneDrive\Desktop\Namaste React\dist\index.3a01df49.css.map133480455687250056 0
+68C:\Users\rajuk\OneDrive\Desktop\Namaste React\dist\index.7826abd7.js133480455687680860 0
+72C:\Users\rajuk\OneDrive\Desktop\Namaste React\dist\index.7826abd7.js.map133480455687760040 0
 69C:\Users\rajuk\OneDrive\Desktop\Namaste React\dist\index.ad248605.css133480072997386163 0
